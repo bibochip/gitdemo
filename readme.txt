@@ -8,3 +8,4 @@ change 7
 =======
 change 6
 >>>>>>> master
+change 8
